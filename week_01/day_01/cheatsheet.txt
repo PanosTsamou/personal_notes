@@ -1,0 +1,8 @@
+ls  present all files in the dirrectory
+mkdir  create a new dirrectory
+~ move to home dirrectory
+rm delete a dirrectory
+mv move or rename a dirrectory
+touch create a files
+.. move to the previous dirrectory
+pwd give the path of you current working dirrectory
